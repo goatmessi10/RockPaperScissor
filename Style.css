@@ -1,0 +1,26 @@
+.choice { display:inline-block;
+    border: 2px solid black;
+    margin: 30px;
+    
+}
+.choices {
+    margin-top:  300px;
+ margin-left: 40%;
+}
+header{
+    background-color: rgb(115, 119, 129);
+    margin: 50px;
+   
+}
+header>h1{
+    text-align: center;
+}
+#show{
+    text-align:center ;
+}
+#printimage{
+   margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
